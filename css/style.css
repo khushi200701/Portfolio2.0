@@ -93,7 +93,7 @@ nav a:hover,
 nav a:focus {
 	outline: none;
 }
-/* Effect 5: same word slide in */
+
 .cl-effect-5 a {
 	overflow: hidden;
 }
@@ -137,7 +137,7 @@ nav a:focus {
 	height: auto;
 	display:block;
 }
-/* Default Skin */
+
 .banner_center {
 	width: 50%;
 	position: absolute;
@@ -149,13 +149,13 @@ nav a:focus {
 .banner_center h1 {
 	color: #eee;
 	font-family: 'Arvo', serif;
-	/* text-transform: uppercase; */
+	
 	font-size: 3.0em;
 }
 .banner_center h2 {
 	color: #eee;
 	font-family: 'Arvo', serif;
-	/* text-transform: uppercase; */
+
 	font-size: 1.7em;
 	padding:7px 0;
 }

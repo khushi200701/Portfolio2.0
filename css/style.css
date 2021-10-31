@@ -33,7 +33,7 @@ body{
 	padding:0 0;
 	margin:0 0; 
 	font-family: 'Open Sans', sans-serif;
-	background-color: #2a404e;	
+	background-color: #0f171d;	
 	
 }
 .header{
@@ -212,7 +212,7 @@ ul.wmuSliderPagination {
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
-	color: #2a404e;
+	color: #0f171d;
 }
 .services-header h3 span {
 	color: #F0C514;
@@ -220,7 +220,7 @@ ul.wmuSliderPagination {
 .services-header p{
 	line-height: 1.5em;
 	font-size: 15px;
-	color: #7e7e7e;
+	color: #0f171d;
 	padding: 25px 0;
 }
 .services-sectiongrids {
@@ -230,7 +230,7 @@ ul.wmuSliderPagination {
 	font-size: 1.3em;
 	font-weight: bold;
 	padding: 15px 0;
-	color: #2a404e;
+	color: #0f171d;
 	text-transform: uppercase;
 }
 .services-grid p {
@@ -244,7 +244,7 @@ ul.wmuSliderPagination {
 }
 .works-section{
 	padding:3em 0;
-	background:#2e3e4e;
+	background:#0f171d;
 	
 }
 .works-header{
@@ -677,7 +677,7 @@ h2.resp-accordion {
 }
 .percentage p{
 	font-size:17px;
-	color:#2a404e;
+	color:#0f171d;
 	font-weight: bold;
 }
 .skills {
@@ -693,7 +693,7 @@ h2.resp-accordion {
 }
 .footer-section {
 	padding: 40px 0px;
-	background: #2e3e4e;
+	background: #0f171d;
 }
 .contact-header {
 	text-align: center;
@@ -724,67 +724,7 @@ padding:20px 20px 50px 20px;
 	text-align: center;
 	padding:20px 40px 20px 20px;
 	}
-/* .social-icon i{
-	width:40px;
-	height:40px;
-	background: url("../images/img-sprite.png") no-repeat 0px 0px;
-	display:inline-block;
-}
-.social-icon i:hover{
-    transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-o-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
-.social-icon a i.icon1{
-	background-position:0px 0px;
-}
-.social-icon a i.icon1:hover{
-	background-position:0px -40px;
-}
-.social-icon a i.icon2{
-	background-position:-40px 0px;
-}
-.social-icon a i.icon2:hover{
-	background-position:-40px -40px;
-}
-.social-icon a i.icon3{
-	background-position:-80px 0px;
-}
-.social-icon a i.icon3:hover{
-	background-position:-80px -40px;
-}
-.social-icon i.icon4{
-	background-position:-120px 0px;
-}
-.social-icon a i.icon4:hover{
-	background-position:-120px -40px;
-}
-.social-icon i.icon5{
-	background-position:-160px 0px;
-}
-.social-icon a i.icon5:hover{
-	background-position:-160px -40px;
-}
-.social-icon i.icon6{
-	background-position:-200px 0px;
-}
-.social-icon a i.icon6:hover{
-	background-position:-200px -40px;
-}
-.social-icon i.icon7{
-	background-position:-240px 0px;
-}
-.social-icon a i.icon7:hover{
-	background-position:-240px -40px;
-}
-.social-icon i.icon8{
-	background-position:-280px 0px;
-}
-.social-icon a i.icon8:hover{
-	background-position:-280px -40px;
-} */
+
 .contact {
 	padding-bottom:4em;
 border-bottom: 1px solid#55626f;
